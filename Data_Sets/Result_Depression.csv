@@ -1,0 +1,7 @@
+Model,Accuracy(%),Precision(%),Recall(%),F1_Score(%)
+Random_Forest,92.5,92.5,92.5,92.30000000000001
+Decision_Tree,78.9,79.0,78.9,78.9
+Naive_Baise,87.2,89.5,87.2,87.8
+K_Nearest_Neighbors,88.3,88.5,88.3,87.8
+Logistic_Regression,99.9,99.9,99.9,99.9
+SVM,100.0,100.0,100.0,100.0
